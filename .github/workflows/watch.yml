@@ -2,7 +2,7 @@ name: Kino watchdog
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # GitHub to reálne spúšťa cca každých 5–15 min
+    - cron: "4,17,29,43,56 * * * *"   # GitHub to reálne spúšťa cca každých 5–15 min
   workflow_dispatch:         # možnosť spustiť ručne cez tlačidlo
 
 permissions:
