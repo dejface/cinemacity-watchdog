@@ -73,7 +73,8 @@ def collect_events() -> dict:
                 "format": "70mm" if "70-mm" in attrs else ("dabing" if "dubbed" in attrs else "titulky"),
                 "soldOut": ev.get("soldOut", False),
                 "availability": ev.get("availabilityRatio"),
-                "link": ev.get("bookingLink", "https://www.cinemacity.cz"),
+                "link": ev.get("bookingRouterLaunchLink")
+                        or f"https://www.cinemacity.cz/cz/booking-router/launch/{ev['id']}?lang=cs",
             }
     return found
 
