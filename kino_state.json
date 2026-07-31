@@ -95,7 +95,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.0026,
+  "availability": 0.0052,
   "link": "https://tickets.cinemacity.cz/order/212843?lang=cs"
  },
  "212844": {
@@ -484,5 +484,302 @@
   "soldOut": false,
   "availability": 0.0156,
   "link": "https://tickets.cinemacity.cz/order/224120?lang=cs"
+ },
+ "224479": {
+  "film": "Odyssea",
+  "when": "2026-08-13T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224479?lang=cs"
+ },
+ "224480": {
+  "film": "Odyssea",
+  "when": "2026-08-13T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9948,
+  "link": "https://tickets.cinemacity.cz/order/224480?lang=cs"
+ },
+ "224481": {
+  "film": "Odyssea",
+  "when": "2026-08-13T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9636,
+  "link": "https://tickets.cinemacity.cz/order/224481?lang=cs"
+ },
+ "224482": {
+  "film": "Odyssea",
+  "when": "2026-08-13T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9403,
+  "link": "https://tickets.cinemacity.cz/order/224482?lang=cs"
+ },
+ "224483": {
+  "film": "Odyssea",
+  "when": "2026-08-14T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224483?lang=cs"
+ },
+ "224484": {
+  "film": "Odyssea",
+  "when": "2026-08-14T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224484?lang=cs"
+ },
+ "224485": {
+  "film": "Odyssea",
+  "when": "2026-08-14T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.987,
+  "link": "https://tickets.cinemacity.cz/order/224485?lang=cs"
+ },
+ "224486": {
+  "film": "Odyssea",
+  "when": "2026-08-14T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9429,
+  "link": "https://tickets.cinemacity.cz/order/224486?lang=cs"
+ },
+ "224487": {
+  "film": "Odyssea",
+  "when": "2026-08-15T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9922,
+  "link": "https://tickets.cinemacity.cz/order/224487?lang=cs"
+ },
+ "224488": {
+  "film": "Odyssea",
+  "when": "2026-08-15T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224488?lang=cs"
+ },
+ "224489": {
+  "film": "Odyssea",
+  "when": "2026-08-15T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9948,
+  "link": "https://tickets.cinemacity.cz/order/224489?lang=cs"
+ },
+ "224490": {
+  "film": "Odyssea",
+  "when": "2026-08-15T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9844,
+  "link": "https://tickets.cinemacity.cz/order/224490?lang=cs"
+ },
+ "224495": {
+  "film": "Odyssea",
+  "when": "2026-08-17T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224495?lang=cs"
+ },
+ "224496": {
+  "film": "Odyssea",
+  "when": "2026-08-17T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224496?lang=cs"
+ },
+ "224497": {
+  "film": "Odyssea",
+  "when": "2026-08-17T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9974,
+  "link": "https://tickets.cinemacity.cz/order/224497?lang=cs"
+ },
+ "224498": {
+  "film": "Odyssea",
+  "when": "2026-08-17T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9896,
+  "link": "https://tickets.cinemacity.cz/order/224498?lang=cs"
+ },
+ "224499": {
+  "film": "Odyssea",
+  "when": "2026-08-18T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224499?lang=cs"
+ },
+ "224500": {
+  "film": "Odyssea",
+  "when": "2026-08-18T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224500?lang=cs"
+ },
+ "224501": {
+  "film": "Odyssea",
+  "when": "2026-08-18T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224501?lang=cs"
+ },
+ "224502": {
+  "film": "Odyssea",
+  "when": "2026-08-18T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9792,
+  "link": "https://tickets.cinemacity.cz/order/224502?lang=cs"
+ },
+ "224503": {
+  "film": "Odyssea",
+  "when": "2026-08-19T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224503?lang=cs"
+ },
+ "224504": {
+  "film": "Odyssea",
+  "when": "2026-08-19T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9948,
+  "link": "https://tickets.cinemacity.cz/order/224504?lang=cs"
+ },
+ "224505": {
+  "film": "Odyssea",
+  "when": "2026-08-19T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9948,
+  "link": "https://tickets.cinemacity.cz/order/224505?lang=cs"
+ },
+ "224506": {
+  "film": "Odyssea",
+  "when": "2026-08-19T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9896,
+  "link": "https://tickets.cinemacity.cz/order/224506?lang=cs"
+ },
+ "224507": {
+  "film": "Odyssea",
+  "when": "2026-08-20T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224507?lang=cs"
+ },
+ "224508": {
+  "film": "Odyssea",
+  "when": "2026-08-20T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9948,
+  "link": "https://tickets.cinemacity.cz/order/224508?lang=cs"
+ },
+ "224509": {
+  "film": "Odyssea",
+  "when": "2026-08-20T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224509?lang=cs"
+ },
+ "224510": {
+  "film": "Odyssea",
+  "when": "2026-08-20T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9896,
+  "link": "https://tickets.cinemacity.cz/order/224510?lang=cs"
+ },
+ "224511": {
+  "film": "Odyssea",
+  "when": "2026-08-21T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224511?lang=cs"
+ },
+ "224512": {
+  "film": "Odyssea",
+  "when": "2026-08-21T12:50:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9922,
+  "link": "https://tickets.cinemacity.cz/order/224512?lang=cs"
+ },
+ "224513": {
+  "film": "Odyssea",
+  "when": "2026-08-21T16:40:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224513?lang=cs"
+ },
+ "224514": {
+  "film": "Odyssea",
+  "when": "2026-08-21T20:30:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 0.9896,
+  "link": "https://tickets.cinemacity.cz/order/224514?lang=cs"
+ },
+ "224515": {
+  "film": "Odyssea",
+  "when": "2026-08-22T09:00:00",
+  "auditorium": "IMAX VOLVO",
+  "format": "70mm",
+  "soldOut": false,
+  "availability": 1.0,
+  "link": "https://tickets.cinemacity.cz/order/224515?lang=cs"
  }
 }
