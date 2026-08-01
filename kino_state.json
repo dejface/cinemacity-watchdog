@@ -455,7 +455,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.3558,
+  "availability": 0.3506,
   "link": "https://tickets.cinemacity.cz/order/224480?lang=cs"
  },
  "224481": {
@@ -464,7 +464,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.1896,
+  "availability": 0.1844,
   "link": "https://tickets.cinemacity.cz/order/224481?lang=cs"
  },
  "224482": {
@@ -644,7 +644,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.3792,
+  "availability": 0.3662,
   "link": "https://tickets.cinemacity.cz/order/224501?lang=cs"
  },
  "224502": {
@@ -698,7 +698,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.7247,
+  "availability": 0.7143,
   "link": "https://tickets.cinemacity.cz/order/224507?lang=cs"
  },
  "224508": {
@@ -725,7 +725,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.3481,
+  "availability": 0.3377,
   "link": "https://tickets.cinemacity.cz/order/224510?lang=cs"
  },
  "224511": {
@@ -779,7 +779,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.4104,
+  "availability": 0.3974,
   "link": "https://tickets.cinemacity.cz/order/224516?lang=cs"
  },
  "224517": {
@@ -806,7 +806,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.5117,
+  "availability": 0.5065,
   "link": "https://tickets.cinemacity.cz/order/224519?lang=cs"
  },
  "224520": {
@@ -851,7 +851,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.561,
+  "availability": 0.5584,
   "link": "https://tickets.cinemacity.cz/order/224524?lang=cs"
  },
  "224525": {
@@ -869,7 +869,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.2961,
+  "availability": 0.2909,
   "link": "https://tickets.cinemacity.cz/order/224526?lang=cs"
  }
 }
