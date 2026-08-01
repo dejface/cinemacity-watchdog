@@ -473,7 +473,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.1688,
+  "availability": 0.1636,
   "link": "https://tickets.cinemacity.cz/order/224482?lang=cs"
  },
  "224483": {
@@ -491,7 +491,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.4182,
+  "availability": 0.4156,
   "link": "https://tickets.cinemacity.cz/order/224484?lang=cs"
  },
  "224485": {
@@ -662,7 +662,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.7273,
+  "availability": 0.7247,
   "link": "https://tickets.cinemacity.cz/order/224503?lang=cs"
  },
  "224504": {
@@ -752,7 +752,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.3506,
+  "availability": 0.3481,
   "link": "https://tickets.cinemacity.cz/order/224513?lang=cs"
  },
  "224514": {
@@ -833,7 +833,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.4468,
+  "availability": 0.439,
   "link": "https://tickets.cinemacity.cz/order/224522?lang=cs"
  },
  "224523": {
