@@ -194,7 +194,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.0208,
+  "availability": 0.0182,
   "link": "https://tickets.cinemacity.cz/order/224122?lang=cs"
  },
  "224123": {
@@ -401,7 +401,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.1013,
+  "availability": 0.0987,
   "link": "https://tickets.cinemacity.cz/order/224495?lang=cs"
  },
  "224496": {
