@@ -1,13 +1,4 @@
 {
- "224121": {
-  "film": "Odyssea",
-  "when": "2026-08-11T09:00:00",
-  "auditorium": "IMAX VOLVO",
-  "format": "70mm",
-  "soldOut": false,
-  "availability": 0.0234,
-  "link": "https://tickets.cinemacity.cz/order/224121?lang=cs"
- },
  "224122": {
   "film": "Odyssea",
   "when": "2026-08-11T12:50:00",
