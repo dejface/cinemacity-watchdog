@@ -4,8 +4,8 @@
   "when": "2026-08-11T16:40:00",
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
-  "soldOut": false,
-  "availability": 0.0156,
+  "soldOut": true,
+  "availability": 0.0,
   "link": "https://tickets.cinemacity.cz/order/224123?lang=cs"
  },
  "224124": {
