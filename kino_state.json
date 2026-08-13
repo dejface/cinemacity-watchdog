@@ -212,7 +212,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.0208,
+  "availability": 0.0182,
   "link": "https://tickets.cinemacity.cz/order/224503?lang=cs"
  },
  "224504": {
@@ -536,7 +536,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.639,
+  "availability": 0.6338,
   "link": "https://tickets.cinemacity.cz/order/233316?lang=cs"
  },
  "233317": {
@@ -608,7 +608,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.6442,
+  "availability": 0.639,
   "link": "https://tickets.cinemacity.cz/order/233324?lang=cs"
  },
  "233325": {
@@ -671,7 +671,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.9792,
+  "availability": 0.9766,
   "link": "https://tickets.cinemacity.cz/order/233331?lang=cs"
  },
  "233332": {
@@ -680,7 +680,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8623,
+  "availability": 0.8571,
   "link": "https://tickets.cinemacity.cz/order/233332?lang=cs"
  },
  "233333": {
@@ -698,7 +698,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.9766,
+  "availability": 0.9714,
   "link": "https://tickets.cinemacity.cz/order/233334?lang=cs"
  },
  "233335": {
@@ -734,7 +734,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8701,
+  "availability": 0.8494,
   "link": "https://tickets.cinemacity.cz/order/233338?lang=cs"
  },
  "233339": {
@@ -824,7 +824,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.9688,
+  "availability": 0.9636,
   "link": "https://tickets.cinemacity.cz/order/233348?lang=cs"
  },
  "233349": {
@@ -842,7 +842,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8649,
+  "availability": 0.8545,
   "link": "https://tickets.cinemacity.cz/order/233350?lang=cs"
  },
  "233351": {
