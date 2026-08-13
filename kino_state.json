@@ -446,7 +446,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.5143,
+  "availability": 0.5091,
   "link": "https://tickets.cinemacity.cz/order/233306?lang=cs"
  },
  "233307": {
@@ -500,7 +500,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8675,
+  "availability": 0.8623,
   "link": "https://tickets.cinemacity.cz/order/233312?lang=cs"
  },
  "233313": {
@@ -563,7 +563,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.6494,
+  "availability": 0.6442,
   "link": "https://tickets.cinemacity.cz/order/233318?lang=cs"
  },
  "233320": {
@@ -599,7 +599,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.6519,
+  "availability": 0.6416,
   "link": "https://tickets.cinemacity.cz/order/233323?lang=cs"
  },
  "233324": {
@@ -608,7 +608,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.6208,
+  "availability": 0.6156,
   "link": "https://tickets.cinemacity.cz/order/233324?lang=cs"
  },
  "233325": {
@@ -644,7 +644,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.7455,
+  "availability": 0.7403,
   "link": "https://tickets.cinemacity.cz/order/233328?lang=cs"
  },
  "233329": {
@@ -770,7 +770,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8286,
+  "availability": 0.8234,
   "link": "https://tickets.cinemacity.cz/order/233342?lang=cs"
  },
  "233343": {
@@ -833,7 +833,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8701,
+  "availability": 0.8571,
   "link": "https://tickets.cinemacity.cz/order/233349?lang=cs"
  },
  "233350": {
@@ -923,7 +923,7 @@
   "auditorium": "IMAX VOLVO",
   "format": "70mm",
   "soldOut": false,
-  "availability": 0.8442,
+  "availability": 0.8364,
   "link": "https://tickets.cinemacity.cz/order/233359?lang=cs"
  }
 }
